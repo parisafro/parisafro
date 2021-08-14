@@ -1,14 +1,11 @@
-WELCOME TO MY GITHUB README 🙋‍♀️
+<h1 align="center">Hi 🙋‍, I'm parisa</h1>
+<h3 align="center">I'm fall in love with the combination of Art and Computer majors😍</h3>
 
-I'm parisa from Iran, I'm fall in love with the combination of Art and Computer majors, so there is some works and skills that I have done👇
-Let's go on a trip😄🤞
+- 🔭 I’m currently working on **myblog**
 
-😄 I started my journey by considering computer fields like cloud computing, IoT, and big data
-😍 In the middle of the route, I got familiar with game development and my major interest was in enviroment design and 3D modeling
-😎 Now I'm in my perfect situation which programming as a front-end developer
+- 🌱 I’m currently learning **react**
 
-<h1 align="center">Hi 👋, I'm parisa</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+- 📫 How to reach me **parisafro.pf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
