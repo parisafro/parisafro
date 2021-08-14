@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🙋‍, I'm parisa</h1>
-<h3 align="center">I'm fall in love with the combination of Art and Computer majors😍</h3>
+<h1 align="left">Hi 🙋‍, I'm parisa</h1>
+<h3 align="left">I'm fall in love with the combination of Art and Computer majors😍</h3>
 
 - 🔭 I’m currently working on **myblog**
 
