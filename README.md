@@ -5,11 +5,13 @@
 
 <h3 align="left">I'm fall in love with the combination of Art and Computer feilds😍</h3>
 
-- 
+- 🎮 I was a 3D artist and game designer
 
-- 🔭 I’m currently working on **myblog**
+- 👩‍💻 I'm a front-end developer
 
-- 🌱 I’m currently learning **react**
+- ✅ I’m currently working on **myblog**
+
+- 🌱 I want to learn **MERN**
 
 - 📫 How to reach me **parisafro.pf@gmail.com**
 
