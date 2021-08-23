@@ -3,19 +3,17 @@
 ![be_creative](https://github.com/parisafro/parisafro/blob/main/front-end%20girl.jpg)
 
 
-<h3 align="left">I'm fall in love with the combination of Art and Computer feilds😍</h3>
+<h3 align="left">I fell in love with the combination of Art and Computer feilds😍</h3>
 
 - 🎮 I was a 3D artist and game designer
 
 - 👩‍💻 I'm a front-end developer
 
-- ✅ I’m currently working on **myblog**
+- ✅ I’m currently working on  <a href='https://parisafro.github.io/'> **myblog** <a/>
 
 - 🌱 I want to learn **MERN**
 
 - 📫 How to reach me **parisafro.pf@gmail.com**
-
-- 👨‍💻 All of my projects are available at https://parisafro.github.io/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
