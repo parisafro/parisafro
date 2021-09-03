@@ -35,14 +35,14 @@
 
 <h3 align="left">Softwares:</h3>
   <p align="left"> 
-      <a href="https://www.autodesk.com/products/maya/overview" target="_blank"> <img src="https://image.pngaaa.com/365/3700365-middle.png" alt="maya" width="40" height="40"/> </a>
+      <a href="https://www.autodesk.com/products/maya/overview" target="_blank"> <img src="https://img1.pnghut.com/16/8/6/96xFNuiUZB/brand-computer-software-tutorial-graphics-logo.jpg" alt="maya" width="40" height="40"/> </a>
+      <a href="https://www.substance3d.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6WKpbH1YU41U6yopzWPqFYgggCbkU54b9rG-hiDxYF5MJD7K-HSiLDBo2A_rgG4rrD0&usqp=CAU" alt="substance painter" width="40" height="40"/> </a>
       <a href="https://www.blender.org/" target="_blank"> <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="Blender" width="40" height="40"/> </a>
-      <a href="https://www.substance3d.com/" target="_blank"> <img src="https://mpng.subpng.com/20190131/zka/kisspng-substance-painter-2-18-substance-designer-2-18-all-5c53cf24bff0a3.1302908115489963887862.jpg" alt="substance painter" width="60" height="40"/> </a>
     <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-
-      
   </p>
     https://mpng.subpng.com/20190306/tg/kisspng-autodesk-maya-computer-icons-portable-network-grap-5c8019ec7cbb67.4418013315518991165109.jpg
+    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijLXO0haISDSfyU5Nzfjrm2OsUkXfEBMRLsF3i2h3vp8sBvSZJusJjVFFgLfzzb24zGY&usqp=CAU
+    https://image.pngaaa.com/365/3700365-middle.png
 
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parisafro)](https://github.com/anuraghazra/github-readme-stats) -->
