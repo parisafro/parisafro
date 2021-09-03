@@ -36,7 +36,7 @@
 <h3 align="left">Softwares:</h3>
   <p align="left"> 
       <a href="https://www.autodesk.com/products/maya/overview" target="_blank"> <img src="https://img1.pnghut.com/16/8/6/96xFNuiUZB/brand-computer-software-tutorial-graphics-logo.jpg" alt="maya" width="40" height="40"/> </a>
-      <a href="https://www.substance3d.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6WKpbH1YU41U6yopzWPqFYgggCbkU54b9rG-hiDxYF5MJD7K-HSiLDBo2A_rgG4rrD0&usqp=CAU" alt="substance painter" width="40" height="40"/> </a>
+      <a href="https://www.substance3d.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdV78T09KPkMLc933UyVMBc9bmwTG5IMjjFdCfeC4aOl-mC8QuAN6Ft1UWYI8osqpxk8&usqp=CAU" alt="substance painter" width="40" height="40"/> </a>
       <a href="https://www.blender.org/" target="_blank"> <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="Blender" width="40" height="40"/> </a>
     <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   </p>
