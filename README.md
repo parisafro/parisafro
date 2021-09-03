@@ -35,8 +35,8 @@
 
 <h3 align="left">Softwares:</h3>
   <p align="left"> 
-      <a href="https://www.autodesk.com/products/maya/overview" target="_blank"> <img src="https://mpng.subpng.com/20190306/tg/kisspng-autodesk-maya-computer-icons-portable-network-grap-5c8019ec7cbb67.4418013315518991165109.jpg" alt="maya" width="60" height="40"/> </a>
-      <a href="https://www.blender.org/" target="_blank"> <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="Blender" width="60" height="40"/> </a>
+      <a href="https://www.autodesk.com/products/maya/overview" target="_blank"> <img src="https://image.pngaaa.com/365/3700365-middle.png" alt="maya" width="40" height="40"/> </a>
+      <a href="https://www.blender.org/" target="_blank"> <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="Blender" width="40" height="40"/> </a>
       <a href="https://www.substance3d.com/" target="_blank"> <img src="https://mpng.subpng.com/20190131/zka/kisspng-substance-painter-2-18-substance-designer-2-18-all-5c53cf24bff0a3.1302908115489963887862.jpg" alt="substance painter" width="60" height="40"/> </a>
     <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
