@@ -36,6 +36,7 @@
 <h3 align="left">Softwares:</h3>
   <p align="left"> 
     <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+    <a href="https://www.substance3d.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSov7ClnKmGrrq9gEdtyHNNkT_ftoYbBbukAA&usqp=CAU" alt="substance painter" width="40" height="40"/> </a>
   </p>
 
 
