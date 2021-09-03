@@ -1,6 +1,6 @@
 <h1 align="left">Hi 🙋‍, I'm parisa 👩‍💻</h1>
 
-![be_creative](https://github.com/parisafro/parisafro/blob/main/front-end%20girl.jpg)
+![creative-girl](https://github.com/parisafro/parisafro/blob/main/github%20resume.jpg)
 
 
 <h3 align="left">I fell in love with the combination of Art and Computer feilds😍</h3>
