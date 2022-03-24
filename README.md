@@ -1,4 +1,4 @@
-<h1 align="left">Hi 🙋‍, I'm parisa 👩‍💻</h1>
+<h1 align="left">Hi, my name is parisa 👩‍💻</h1>
 
 ![creative-girl](https://github.com/parisafro/parisafro/blob/main/github%20resume.jpg)
 
